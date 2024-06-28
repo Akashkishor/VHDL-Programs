@@ -1,3 +1,3 @@
-Dynamic mux is a kind of mux integrated with a 4 bit counter. the counter output is given as select line to the mux.
-both the counter and mux work when the clr is reset .
-there are two blocks integrated here mux and counter block.
+This is my VHDL programming page,here I post RTL codes in VHDL programming
+solved baics and advanced vhdl codes of Digital Electronics Components.
+Checkout the RTL codes on the above files
